@@ -1,0 +1,10 @@
+C:\Users\Ogretmen\source\repos\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\Ogretmen\source\repos\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\Ogretmen\source\repos\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.csproj.AssemblyReference.cache
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\Ogretmen\source\repos\proje1\proje1\obj\Debug\proje1.pdb
